@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "QGgiMjSpoh5c0J9yFXzfhJz/bthgWomaKg++unnCYWA=",
+  "Source": "Authentication",
+  "BasePath": "_content/Authentication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Authentication\\wwwroot",
+      "Source": "Authentication",
+      "ContentRoot": "D:\\dev\\Uippe\\Authentication\\wwwroot\\",
+      "BasePath": "_content/Authentication",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\dev\\Uippe\\Authentication\\wwwroot\\confirmemail.html",
+      "SourceId": "Authentication",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\dev\\Uippe\\Authentication\\wwwroot\\",
+      "BasePath": "_content/Authentication",
+      "RelativePath": "confirmemail.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\confirmemail.html"
+    }
+  ]
+}
